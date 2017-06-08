@@ -1,7 +1,7 @@
 # refe
 ![](https://raw.githubusercontent.com/refeStack/refe/master/img/refe-wide.png)
 
-### 📚 JavaScript and Markdown Serverless Microarchitecture
+### 📚 JavaScript and Markdown Server-less Microservice
 
 # What Does ReFE Do?
 
