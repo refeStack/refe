@@ -1,13 +1,12 @@
 ![](https://raw.githubusercontent.com/refeStack/refe/master/img/refe-wide.png)
 
-# ReFE
-## Really Fast & Easy
+# Really Fast & Easy
 
 ### 📚 JavaScript and Markdown Server-less Microservice
 
 # What Does ReFE Do?
 
-A drag-and-drop instant server-less website is _Really Fast & Easy_. 
+ReFE makes building a server-less website drag-and-drop simple. No coding knowledge needed, and no servers to manage.
 
 # How does ReFE work?
 
