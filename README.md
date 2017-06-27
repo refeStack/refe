@@ -14,6 +14,8 @@ Plain-text markdown, and client side JavaScript means ultra fast (20ms) web-page
 
 # Server-less hosting
 
+[Amazon CloudFront](https://aws.amazon.com/cloudfront/)
+
 [Amazon S3](https://aws.amazon.com/s3/)
 
 [DreamObjects](https://www.dreamhost.com/cloud/storage/)
