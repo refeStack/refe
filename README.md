@@ -1,6 +1,6 @@
 ![](https://raw.githubusercontent.com/refeStack/refe/master/img/refe-wide.png)
 
-# Really Fast & Easy
+# ReFE
 
 ### 📚 JavaScript and Markdown Server-less Microservice
 
@@ -26,10 +26,14 @@ Plain-text markdown, and client side JavaScript means ultra fast (20ms) web-page
 
 **Support 4S development** and maintenance and get simple tutorials & aliases designed for your Cloud VPS!: _Vultr_, _DreamHost_, _Digital Ocean_, _Amazon EC2_, or _Google Cloud Platform_.
 
+## FAQ
+
+* Q: What does ReFE stand for?
+  * A: _Really Fast & Easy_. Others prefer _Really Fucking Easy_.
 
 ## Community Discussion
 
-Text and voice chat on the public mumble server.
+Text and voice chat on the public [mumble](https://wiki.mumble.info/wiki/Main_Page) server.
 
 **Join the Public Mumble**
 
