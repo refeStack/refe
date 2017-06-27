@@ -33,7 +33,7 @@ Plain-text markdown, and client side JavaScript means ultra fast (20ms) web-page
 
 ## Community Discussion
 
-Text and voice chat on the public [mumble](https://wiki.mumble.info/wiki/Main_Page) server.
+Text and voice chat on the public [mumble](http://mumble.info) server.
 
 **Join the Public Mumble**
 
