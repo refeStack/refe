@@ -24,7 +24,7 @@ Plain-text markdown, and client side JavaScript means ultra fast (20ms) web-page
 
 ### **[Support Now](https://bringyourwallet.com/donate)**
 
-**Support 4S development** and maintenance and get simple tutorials & aliases designed for your Cloud VPS!: _Vultr_, _DreamHost_, _Digital Ocean_, _Amazon EC2_, or _Google Cloud Platform_.
+**Support ReFE development** and maintenance and get simple tutorials & aliases designed for your Cloud VPS!: _Vultr_, _DreamHost_, _Digital Ocean_, _Amazon EC2_, or _Google Cloud Platform_.
 
 ## FAQ
 
