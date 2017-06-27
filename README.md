@@ -12,6 +12,12 @@ ReFE makes building a server-less website drag-and-drop simple. No coding knowle
 
 Plain-text markdown, and client side JavaScript means ultra fast (20ms) web-page load times. Your website can be distributed across multiple locations, right to the edge of the network of your users.
 
+# Server-less hosting
+
+[Amazon S3](https://aws.amazon.com/s3/)
+
+[DreamObjects](https://www.dreamhost.com/cloud/storage/)
+
 ## Support ReFE Development
 
 ### **[Support Now](https://bringyourwallet.com/donate)**
